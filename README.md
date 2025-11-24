@@ -1,4 +1,6 @@
 # JupyterLab_JupyterAI_Course
+**JupyterLab是Jupyter Notebook的更新版本，是一个面向Python数据科学和机器学习领域的轻量级IDE了，并且有现代AI编程助手的加持！！！**
+
 ## 安装 JupyterLab 和 JupyterAI
 [https://github.com/jupyterlab/jupyter-ai?tab=readme-ov-file](https://jupyter-ai.readthedocs.io/en/v2/users/index.html)
 
