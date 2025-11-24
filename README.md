@@ -9,9 +9,11 @@
 pip install jupyterlab~=4.0
 
 pip install 'jupyter-ai[all]'
+
 运行
 jupyter lab
 ```
+**如此安装完以后cell无法像后面课程一样拖拉到对话框（但可以使用“send message with selection”基本等价，可能有些东西还没装或者版本比较老）**
 
 ## 配置JupyterAI的模型
 点击JupyterAI窗口的右上角的配置按钮，按下图配置（使用 https://gptgod.online/  miclub01@outlook.com账户登录
