@@ -25,6 +25,19 @@ jupyter lab
 - https://www.deeplearning.ai/short-courses/jupyter-ai-coding-in-notebooks/   （需Google账号登录一下，后续就不需要特别网络环境了）
 - https://www.bilibili.com/video/BV1oxkQB1ENT 中文配音版
 
+## 其他选择
+
+### 2022年成立公司的https://marimo.io/ 完全开源项目，号称下一代Python Notebook （也有工具可convert ipynb文件用以兼容）
+marimo feels like a notebook but is stored as pure Python program that's Git-friendly, reusable as a module, executable as a script, shareable as an app, reproducible in execution and packaging, and designed for data (with SQL and LLM support built-in). <BR>
+- 可复现性（notebook隐变量等过于随意）
+- 可交互性（有**前端设计**）
+- 可重用性
+  - 可控版本（因为是纯.py，所以**Git友好**）
+  - 可分享发布（成**web应用**）
+- **后端数据库**和AI友好
+
+JupyterLab 在短期内仍将是主流，因为已有广泛安装基础、社区认知强、生态丰富，即**传统数据探索、教学、科研，JupyterLab 还是稳定可靠的选择**。但在中长期（尤其当**数据科学／ML／AI 的生态更多偏向生产部署、版本控制、可复用、团队协作**） 的话，marimo 有很强的潜力进入 “主流选择之一”，甚至在某些细分场景（比如 AI／ML 原型到部署的流程）中可能逐渐占据优势。
+
 ## 后记：之前用conda安装有点小问题，虽然不影响使用。
 ```bash
 用管理员运行Conda 命令行
