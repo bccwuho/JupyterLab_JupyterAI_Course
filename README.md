@@ -35,6 +35,7 @@ marimo feels like a notebook but is stored as pure Python program that's Git-fri
   - 可控版本（因为是纯.py，所以**Git友好**）
   - 可分享发布（成**web应用**）
 - **后端数据库**和AI友好
+-  免费的2vCPU2G的https://molab.marimo.io/ 类似谷歌的云上CoLab
 
 JupyterLab 在短期内仍将是主流，因为已有广泛安装基础、社区认知强、生态丰富，即**传统数据探索、教学、科研，JupyterLab 还是稳定可靠的选择**。但在中长期（尤其当**数据科学／ML／AI 的生态更多偏向生产部署、版本控制、可复用、团队协作**） 的话，marimo 有很强的潜力进入 “主流选择之一”，甚至在某些细分场景（比如 AI／ML 原型到部署的流程）中可能逐渐占据优势。
 
